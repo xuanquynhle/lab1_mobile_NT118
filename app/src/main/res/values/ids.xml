@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txtSignup" type="id" />
+    <item name="et_pw" type="id" />
+    <item name="tv_pw" type="id" />
+    <item name="btn_sign_in_via_fb" type="id" />
+    <item name="btn_sign_up" type="id" />
+</resources>
